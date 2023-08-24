@@ -1,3 +1,7 @@
+"""
+从图像中提取特征
+"""
+
 import argparse, os
 import PIL
 import torch
